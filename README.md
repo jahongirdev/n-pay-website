@@ -1,4 +1,4 @@
-### n-pay landing page main
+## n-pay landing page main
 
-### Created by Jahongir Murodboev
-### Live demo: https://npay-site.netlify.app/
+**Created by Jahongir Murodboev**
+#### Live demo: https://npay-site.netlify.app/
